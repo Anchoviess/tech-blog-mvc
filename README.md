@@ -4,7 +4,7 @@
 
 ## Description
 
-Ths was a first foray into building a Full Stack Application from scratch. It has authentication, as well as dynamic content based on the users current logged in status. The user can make requests to create, update, view, and delete posts. As well as comment on other peoples posts.
+This was a first foray into building a Full Stack Application from scratch. It has authentication, as well as dynamic content based on the users current logged in status. The user can make requests to create, update, view, and delete posts. As well as comment on other peoples posts.
 
 ## Table Of Contents
 
