@@ -17,7 +17,7 @@ This was a first foray into building a Full Stack Application from scratch. It h
 ## Installation
 
 Once the repo has been cloned locally from github, you cna run this locally by installing the dependencies using `npm i` and then setting up the database using `mysql -u root -p` followed by `source ./db/schema.sql`. Finally typing `npm start`. This will enable the site to on on your localhost. If you wish to make this live on the web you will need to push up to a service such as Heroku, following their installation practises.
-## Screen<img width="1301" alt="Screen Shot 2022-06-11 at 11 44 09 PM" src="https://user-images.githubusercontent.com/97990379/173220937-4eb426c8-87da-4985-a852-90c07f5<img width="1281" alt="Screen Shot 2022-06-11 at 11 44 32 PM" src="https://user-images.githubusercontent.com/97990379/173220938-07dfe29d-b90d-4ad6-82f8-43065db9fb85.png">
+## Screen <img width="1301" alt="Screen Shot 2022-06-11 at 11 44 09 PM" src="https://user-images.githubusercontent.com/97990379/173220937-4eb426c8-87da-4985-a852-90c07f5<img width="1281" alt="Screen Shot 2022-06-11 at 11 44 32 PM" src="https://user-images.githubusercontent.com/97990379/173220938-07dfe29d-b90d-4ad6-82f8-43065db9fb85.png">
 b7960.png">
 shots
 
