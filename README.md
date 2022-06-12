@@ -17,6 +17,8 @@ This is a project which was developed for the University of Arizona Coding Bootc
 ## Installation
 
 Once the repo has been cloned locally from github, you cna run this locally by installing the dependencies using `npm i` and then setting up the database using `mysql -u root -p` followed by `source ./db/schema.sql`. Finally typing `npm start`. This will enable the site to on on your localhost. If you wish to make this live on the web you will need to push up to a service such as Heroku, following their installation practises.
+## Deployment
+https://immense-beach-88368.herokuapp.com/
 ## Screenshots
 
 <img width="1281" alt="Screen Shot 2022-06-11 at 11 44 32 PM" src="https://user-images.githubusercontent.com/97990379/173221062-bc3e0a71-99c5-4600-90b1-45ad99af076e.png">
